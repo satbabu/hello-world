@@ -1,6 +1,6 @@
 # Databricks notebook source
 # This is a comment text
-print("Hello World!")
+print("Hello World 2024!")
 
 # COMMAND ----------
 
